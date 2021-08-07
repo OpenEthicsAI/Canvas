@@ -14,5 +14,9 @@ You can contribute to the version 2.0 by submitting your comments and pull reque
 ### Where can I find the strucutre of the The Open Ethics Canvas?
 The questions are stored in `canvas.md`
 
+### Can I make changes and reuse the Canvas?
+Yes, please don't forget to attribute your modification
 
+### License
+The Open Ethics Canvas v1.0 © 2021 by Nikita Lukianets, Alice Pavaloiu, Vlad Nekrutenko is licensed under Attribution-ShareAlike 4.0 International
 
