@@ -20,3 +20,9 @@ Yes, please don't forget to attribute your modification
 ### License
 The Open Ethics Canvas v1.0 © 2021 by Nikita Lukianets, Alice Pavaloiu, Vlad Nekrutenko is licensed under Attribution-ShareAlike 4.0 International
 
+### Cite as
+Open Ethics, Nikita Lukianets, Vlad Nekrutenko, & Alice Pavaloiu. (2021). OpenEthicsAI/Canvas: The Open Ethics Canvas v1.0.1 (1.0.1). Zenodo. https://doi.org/10.5281/zenodo.5211845
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5211845.svg)](https://doi.org/10.5281/zenodo.5211845)
+
+
