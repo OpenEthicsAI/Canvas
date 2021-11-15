@@ -105,7 +105,7 @@ modified: 2021-08-07
 
 ## Changes in Behavior
 - Do the automated decisions have significant legal or similar effects on the users/stakeholders?
-- How may users change their behavior after use?
+- How might users change their behavior after use?
 - What are the potentials for power imbalance?
 - What group interactions can you anticipate?
 - What are potential changes in group behavior?
