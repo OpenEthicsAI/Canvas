@@ -88,7 +88,7 @@ modified: 2021-08-07
 ## Impact Assessment
 - What potential harms can your product cause? (loss of opportunity, discrimination, economic loss, social stigma, detriment, emotional distress, etc)?
 - What are the risks of the product’s failure?
-- What impact can the product can cause when deployed at scale?
+- What impact can the product cause when deployed at scale?
 - How is the product influencing the existing markets?
 
 ## Regulatory Landscape
