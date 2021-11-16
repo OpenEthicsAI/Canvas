@@ -13,10 +13,10 @@ modified: 2021-08-07
 
 ## Scope
 - What is this product designed for?
-- In which context it operates?
+- What context does it operate in?
 
 ## Users
-- What type of users does this product have? (customers/admins/ etc)
+- What type of users does this product have?
 - What are their roles?
 
 ## Training Data
@@ -27,8 +27,8 @@ modified: 2021-08-07
 - What is the data labeling process that you employ?
 
 ## Algorithms & Source Code
-- Do you use open or proprietary sources? Why? Which?
-- Who in the team is setting the heuristics (rules) which influence the output?
+- Do you use open or proprietary sources? Which?
+- Who in the team is setting the heuristics/rules that influence the output?
 - How do you ensure the quality of used third-party codebases?
 - What is your process of making the key architectural choices?
 
@@ -61,15 +61,15 @@ modified: 2021-08-07
 - How do you check the reliability of your data processing contractors?
 
 ## Failure modes
-- How failures are detected and monitored?
-- What are the possible failures of a product?
-- What actions are performed if a product fails?
+- How are failures detected and monitored?
+- What are the possible failures of the product?
+- What happens when the product fails?
 
 ## Explainability
 - How is interpretability defined for the system?
 - What interpretability methods are used?
 - What metrics are used in result interpretation?
-- How interpretations of the output are communicated?
+- How are interpretations of the output communicated?
 
 ## Human in the Loop (HITL)
 - What is the role of a human agent in the validation/verification of the outputs?
@@ -83,18 +83,18 @@ modified: 2021-08-07
 ## Decision Feedback & Objection
 - How does the product allow for structured feedback?
 - How can the user challenge the application output?
-- Which are the third parties involved in claims/objection resolution?
+- Which are the third parties involved in resolving claims and objections?
 
 ## Impact Assessment
 - What potential harms can your product cause? (loss of opportunity, discrimination, economic loss, social stigma, detriment, emotional distress, etc)?
 - What are the risks of the product’s failure?
-- What impact product can cause if deployed at scale?
+- What impact can the product cause when deployed at scale?
 - How is the product influencing the existing markets?
 
 ## Regulatory Landscape
 - What is the regulatory context in which the product operates?
 - Is the model portable to other market verticals?
-- What are the involved regulatory risks?
+- What regulatory risks are involved?
 
 ## Mitigation
 - How do you test for bias and fairness? What fairness definitions do you employ and why?
@@ -105,9 +105,9 @@ modified: 2021-08-07
 
 ## Changes in Behavior
 - Do the automated decisions have significant legal or similar effects on the users/stakeholders?
-- How the users may change their behavior after use?
+- How might users change their behavior after use?
 - What are the potentials for power imbalance?
-- Group Interactions
+- What group interactions can you anticipate?
 - What are potential changes in group behavior?
 - How is the product addressing group interests?
 - What new groups could be born due to the product deployment at scale?
